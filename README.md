@@ -1,4 +1,4 @@
-# HTML4-ABC
+# HTML4
 ### ABC - Centro de Qualificação Profissional 
 [ABC Site Oficial](http://abcqblog.blogspot.com/ "Site Oficial ABC - Centro de Qualificação Profissional")
 
@@ -9,22 +9,22 @@ Local para configurar e publicar atividades feitas no curso.
 
 #### Listagem: 
 
-* [Primeiros Passos HTML]("")
+* [Primeiros Passos HTML](https://github.com/MacMenez/HTML4/tree/main/Primeiros%20Passos%20HTML "")
 
 ##### Estudos de Tags
-* [Listas]("Exericíos de Listas")
-* [Locadora]("Exericíos de Filmes")
-* [NFL]("Exericíos de Esportes")
-* [Quadro de Medalhas]("Exericíos de Esportes Olímpicos")
-* [Séries]("Exericíos de Seriados de TV")
-* [Televisão]("Exericíos de Televisão")
-* [WinGAMES]("Exericíos de Eventos de Jogos")
+* [Listas](https://github.com/MacMenez/HTML4/tree/main/Listas "Exericíos de Listas")
+* [Locadora](https://github.com/MacMenez/HTML4/tree/main/Locadora "Exericíos de Filmes")
+* [NFL](https://github.com/MacMenez/HTML4/tree/main/NFL "Exericíos de Esportes")
+* [Quadro de Medalhas](https://github.com/MacMenez/HTML4/tree/main/Quadro%20de%20Medalhas "Exericíos de Esportes Olímpicos")
+* [Séries](https://github.com/MacMenez/HTML4/tree/main/series "Exericíos de Seriados de TV")
+* [Televisão](https://github.com/MacMenez/HTML4/tree/main/televisao "Exericíos de Televisão")
+* [WinGAMES](https://github.com/MacMenez/HTML4/tree/main/WinGAMES "Exericíos de Eventos de Jogos")
 
 ##### Projetos
-* [tudotech]("")
-* [MSom]("")
-* [Livraria]("")
-* [Jullios]("")
-* [Hotel Larissa]("")
-* [Faculdade]("")
-* [Bluscreen]("")
+* [Bluscreen](https://github.com/MacMenez/HTML4/tree/main/Bluscreen "Projeto Loja de Tecnologia")
+* [Faculdade](https://github.com/MacMenez/HTML4/tree/main/Faculdade "Projeto de Aprovados na Faculdade")
+* [Hotel Larissa](https://github.com/MacMenez/HTML4/tree/main/Hotel%20Larissa "Projeto Site de Hotelaria")
+* [Jullios](https://github.com/MacMenez/HTML4/tree/main/Jullios "Projeto de Artigos esportivos")
+* [Livraria](https://github.com/MacMenez/HTML4/tree/main/livraria "Projeto de Livraria")
+* [MSom](https://github.com/MacMenez/HTML4/tree/main/MSom "Projeto de Site de Musica")
+* [tudotech](https://github.com/MacMenez/HTML4/tree/main/tudotech "Projeto de Eventos de Tecnologia")
